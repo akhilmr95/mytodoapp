@@ -137,5 +137,9 @@ li.completed {
   color: #3DDAB4;
    /* padding: 1.25rem; */
    text-align: center;
-   margin: 0.5rem 0 0;
+   margin: 5px;
+}
+
+a {
+  color: #3DDAB4;
 }
