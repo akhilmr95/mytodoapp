@@ -104,8 +104,8 @@ function handSetConfetti() {
       <p className="copy">&copy; Copyright 2022</p>
       <p className="copy">
         Built with &#x2661; by
-        <a href="" target="_blank"
-          >Akhil Reddy</a
+        <a href="www.akhilmr.com" target="_blank"
+          > Akhil Reddy</a
         >
       </p>
     </div>
