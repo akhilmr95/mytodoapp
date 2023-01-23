@@ -1,5 +1,7 @@
 # To-Do List App
 This is a simple to-do list application built with ReactJS. It allows users to add, edit, mark complete, mark all complete and delete tasks.
+# Live Demo
+The project is live at https://codesandbox.io/s/to-do-list-app-7r0x9d?file=/public/index.html
 # Features
 * Add new tasks
 * Edit existing tasks
@@ -13,6 +15,7 @@ This is a simple to-do list application built with ReactJS. It allows users to a
 * react
 * react-dom
 * react-scripts
+* uuid
 * react-confetti
 # Installation(Mac)
 * Download nodejs and install it.(npm comes along with nodejs)
