@@ -1,7 +1,6 @@
-// import React, { useState } from "react";
+
 const { React, useState } = require("react")
 const ReactDOM = require('react-dom');
-// import { v4 as uuidv4 } from "uuid";
 const {v4} = require("uuid")
 const uuidv4 = v4
 
